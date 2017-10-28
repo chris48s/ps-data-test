@@ -1,5 +1,22 @@
 [
     {
+        "ACCESS_DESRIPTION": "",
+        "DUAL": "No",
+        "DUAL_STN": null,
+        "LOCALITY": "Horfield",
+        "LOCATION_NAME": "Ashley Down Primary School, Downend Road Site",
+        "OBJECTID": 1,
+        "PAO": "Ashley Down Junior School",
+        "POLLING_DISTRICT": "BIAB",
+        "POSTCODE": "BS7 9PE",
+        "SAON": "",
+        "STREET": "Downend Road",
+        "UPRN": 347785,
+        "UPRN_2": "000000347784",
+        "council_id": "E06000023",
+        "geometry": "{\"geometry\": {\"coordinates\": [-2.584072007815963, 51.483607312795414], \"type\": \"Point\"}, \"id\": 1, \"properties\": {\"ACCESS_DESRIPTION\": \" \", \"DUAL\": \"No\", \"DUAL_STN\": null, \"LOCALITY\": \"Horfield\", \"LOCATION_NAME\": \"Ashley Down Primary School, Downend Road Site\", \"OBJECTID\": 1, \"PAO\": \"Ashley Down Junior School\", \"POLLING_DISTRICT\": \"BIAB\", \"POSTCODE\": \"BS7 9PE\", \"SAON\": \" \", \"STREET\": \"Downend Road\", \"UPRN\": 347785, \"UPRN_2\": \"000000347784\"}, \"type\": \"Feature\"}"
+    },
+    {
         "ACCESS_DESRIPTION": "Access St. Francis Road",
         "DUAL": "No",
         "DUAL_STN": "",
